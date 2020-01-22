@@ -263,6 +263,27 @@ input, select, textarea {
 		background-size: contain;
 	}
 
+	.graph-pic{
+		height: 100px;
+		width: 100px;
+		background: url('./images/graphQL.png') no-repeat;
+		background-size: contain;
+	}
+
+	.mongo-pic{
+		height: 100px;
+		width: 100px;
+		background: url('./images/mongoDB.png') no-repeat;
+		background-size: contain;
+	}
+
+	.Express-pic{
+		height: 100px;
+		width: 100px;
+		background: url('./images/expressjs-icon.png') no-repeat;
+		background-size: contain;
+	}
+
 /* Container */
 
 	.container {
